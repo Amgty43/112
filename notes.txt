@@ -1,0 +1,2 @@
+step 1 install apps in settings directory
+step 2 add directory to temporary directory
