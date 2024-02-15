@@ -1,2 +1,7 @@
 step 1 install apps in settings directory
 step 2 add directory to temporary directory
+python3 manage.py makemigrations
+python3 manage.py migrate
+superuser info  
+Username (leave blank to use 'tyrellpatton'): 
+password user1234
