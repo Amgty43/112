@@ -1,9 +1,9 @@
 {% extends 'base.html' %}
 
 
-{% block title %}{{ post.title }}{% endblock title %}
+{% block title %}New Post{% endblock title %}
 
-{% block contenc %}
+{% block content %}
 <h1>New Post</h1>
 <form method="POST">
     {% csrf_token %}

@@ -40,6 +40,7 @@ INSTALLED_APPS = [ #step 1
     "pages",
     "posts",
     
+    
 ]
 
 MIDDLEWARE = [

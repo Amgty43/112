@@ -5,3 +5,4 @@ python3 manage.py migrate
 superuser info  
 Username (leave blank to use 'tyrellpatton'): 
 password user1234
+{% csrf_token %} has to be used with jinja2
